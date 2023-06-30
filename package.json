@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "nuxt": "^3.4.0",
+    "semver": "^7.5.0",
+    "shescape": "^1.5.10"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.0",
+    "snowflake-sdk": "^1.6.0"
+  }
+}
