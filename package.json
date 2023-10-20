@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.0",
-    "snowflake-sdk": "^1.6.0"
+    "snowflake-sdk": "^1.9.0"
   }
 }
