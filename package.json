@@ -10,7 +10,7 @@
     "ua-parser-js": "^0.7.30"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.0",
+    "@openzeppelin/contracts": "^4.9.3",
     "snowflake-sdk": "^1.6.0"
   }
 }
