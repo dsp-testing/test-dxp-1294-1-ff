@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "engine.io": "^3.5.0",
+    "engine.io": "^6.6.2",
     "lodash": "^4.16.0",
     "minimatch": "^3.0.0",
     "nuxt": "^3.4.0",
