@@ -3,7 +3,7 @@
     "engine.io": "^3.5.0",
     "lodash": "^4.16.0",
     "minimatch": "^3.0.0",
-    "nuxt": "^3.4.0",
+    "nuxt": "^3.21.6",
     "scss-tokenizer": "^0.4.1",
     "semver": "^7.5.0",
     "shescape": "^1.5.10",
